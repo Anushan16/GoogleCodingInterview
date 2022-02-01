@@ -1,4 +1,4 @@
-# We can approach this question using a brute force approach , iterating over each element of the array intitially, then nesting another loop to iterate over the loop again to sum all possible pairs. This is not a scalable solution as it runs in 0(n^2) complexity
+""" We can approach this question using a brute force approach , iterating over each element of the array intitially, then nesting another loop to iterate over the loop again to sum all possible pairs. This is not a scalable solution as it runs in 0(n^2) complexity"""
 
 def findTargetSum(arr,target):
 
